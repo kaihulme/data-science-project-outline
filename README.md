@@ -1,9 +1,7 @@
 
 # data-science-project-outline
 
-Outline of data science project workflow. This has been written with help from the content in [Hands-on Machine Learning, Aurelien Geron](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_title_bk) and the Kaggle notebook [Titanic Data Science Solutions](https://www.kaggle.com/startupsci/titanic-data-science-solutions) - the companion notebook to [Data Science Solutions, Manav Sehgal](https://www.amazon.com/Data-Science-Solutions-Startup-Workflow/dp/1520545312). 
-
-It can be applied to other Kaggle competitions or data science projects in general.
+Outline of data science project workflow. It can be applied to other Kaggle competitions or data science projects in general.
 
 ## Project outline
 
